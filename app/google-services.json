@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "609003257588",
+    "firebase_url": "https://comdep-app.firebaseio.com",
+    "project_id": "comdep-app",
+    "storage_bucket": "comdep-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609003257588:android:63f1c229ac0be2d2",
+        "android_client_info": {
+          "package_name": "com.francisdeh.comdepapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609003257588-oaf115qihbl00cjn4131fg40rap59ff7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.francisdeh.comdepapp",
+            "certificate_hash": "bf441f6ebe7fd990c924efc4a091b7194e1cad52"
+          }
+        },
+        {
+          "client_id": "609003257588-v887lfbl45irlb46oosvcvccg9jk1ki2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8wea-afzZZBt6Ro9w7KcK5mkPF6y3cGU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609003257588-v887lfbl45irlb46oosvcvccg9jk1ki2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

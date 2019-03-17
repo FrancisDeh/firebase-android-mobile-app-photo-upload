@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Comdep App</string>
+
+    <!--Temporary Credentials-->
+    <string name="comdep_email">comdep@gmail.com</string>
+    <string name="comdep_password">comdep@2017</string>
+    <string name="comdep_admin_email">comdepadmin@yahoo.com</string>
+    <string name="comdep_admin_password">comdepadmin@2017</string>
+</resources>
